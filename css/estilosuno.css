@@ -1,0 +1,350 @@
+*
+{
+	margin:0;
+}
+*{
+font-family: 'Dancing Script', cursive;
+}
+
+body{
+	background:  #ffffff;
+	color: black;
+	font-family: sans-serif;
+}
+
+#wrapper
+{
+	width: 100%;
+	margin: 0 auto;
+background-color:  #d5c75f;
+}
+.wrapper{
+	width: 100%;
+	margin: 0 auto;
+}
+.cuerpo{
+	width: 100%;
+	height: auto;
+}
+header
+{
+	margin: 0 auto;
+	padding-top: 25px;
+	background-color:  #5b7989;
+	color:white;
+	display: flex;
+
+}
+.cavela{
+	width: 100%;
+height: 70px;
+}
+.enla{
+		margin-left: 50%;
+}
+#mone{
+	font-size: 30px;
+	display: flex;
+	padding-left: 20px;
+}
+a{
+	margin-left: 4px;
+text-align: center;
+	display: flex;
+	color: #ffffff;
+	display: inline-block;
+		font-size: 19px;
+}
+.menu{
+	width: 100%;
+	display: flex;
+	margin-left: 50%;
+padding-right: 20%;
+}
+
+
+article
+{
+	box-sizing: border-box;
+	float:left;
+	height: 100%;
+	background-color: grey;
+	padding: 2%;
+	text-align: center;
+	height: 400px;
+}
+
+footer{
+	width: 100%;
+	height: 100%;
+	background-color:  #C6d5c5;
+
+}
+
+	#columna1
+	{
+
+	background-color: #d5c75f;
+width: 33.33%;
+height:auto;
+
+
+	}
+	#columna2
+	{
+	background-color:  #d5c75f;
+width: 33.33%;
+height:auto;
+
+	}
+	#columna3
+	{
+	background-color:  #d5c75f;
+width: 33.33%;
+height:auto;
+
+	}
+	#columna4
+	{
+	background-color:  #d5c75f;
+width: 33.33%;
+height:auto;
+
+	}
+	#columna5
+	{
+	background-color:  #d5c75f;
+width: 33.33%;
+height:auto;
+
+	}
+	#columna6
+	{
+	background-color:  #d5c75f;
+width: 33.33%;
+height:auto;
+
+	}
+	#columna7
+	{
+	background-color:  #C6d5c5;
+	width: 25%;
+  height:210px;
+
+	}
+	#columna8
+	{
+	background-color:  #C6d5c5;
+	width: 25%;
+height:210px;
+
+	}
+	#columna9
+	{
+	background-color:  #C6d5c5;
+	width: 25%;
+height:210px;
+
+	}
+	#columna10
+	{
+	background-color:  #C6d5c5;
+	width: 25%;
+height:210px;
+	}
+	#img1{
+		width: 100%;
+		border: 1px solid black;
+		box-shadow: 1px 0px 2px black;
+	}
+	#img2{
+		width: 100%;
+			border: 1px solid black;
+			box-shadow: 1px 0px 2px black;
+	}
+	#img3{
+		width: 100%;
+			border: 1px solid black;
+			box-shadow: 1px 0px 2px black;
+	}
+	#img4{
+		width: 100%;
+			border: 1px solid black;
+			box-shadow: 1px 0px 2px black;
+	}
+	#img5{
+		width: 100%;
+			border:1px solid black;
+			box-shadow: 1px 0px 2px black;
+	}
+	#img6{
+		width: 100%;
+			border: 1px solid black;
+			box-shadow: 1px 0px 2px black;
+	}
+
+
+	#google{
+		 width:30px;
+		 height: 30px;
+		 border-radius: 5px;
+	}
+	#twitter{
+		 width:30px;
+		 height: 30px;
+		 border-radius: 5px;
+	}
+	#instagram{
+		 width:30px;
+		 height: 30px;
+
+	}
+	#facebook{
+		 width:30px;
+		 height: 30px;
+		 border-radius: 5px;
+	}
+	#img1{
+		-webkit-filter:blur(10px);
+		filter:blur(10px);
+	}
+
+	#img2{
+		-webkit-filter:grayscale(100%);
+		filter:grayscale(100%);
+	}
+	#img4{
+		-webkit-filter:grayscale(100%);
+		filter:grayscale(100%);
+	}
+	#img6{
+		-webkit-filter:grayscale(100%);
+		filter:grayscale(100%);
+	}
+
+
+@media screen and (max-width: 960px){
+
+	#wrapper
+	{
+		width: 90%;
+		margin: 0 auto;
+	}
+
+
+}
+@media screen and (max-width: 780px){
+
+	#wrapper
+	{
+		width: 100%;
+		margin: 0 auto;
+	}
+}
+
+@media screen and (max-width: 640px){
+
+	#wrapper
+	{
+		width: 100%;
+		margin: 0 auto;
+	}
+
+#columna1
+{
+width: 100%;
+}
+#columna2
+{
+width: 100%;
+}
+#columna3
+{
+width: 100%;
+}
+#columna4
+{
+width: 100%;
+}
+#columna5
+{
+width: 100%;
+}
+#columna6
+{
+width: 100%;
+}
+#columna7
+{
+width: 100%;
+}
+#columna8
+{
+width: 100%;
+}
+#columna9
+{
+width: 100%;
+}
+#columna10
+{
+width: 100%;
+}
+
+}
+
+@media screen and (max-width: 480px){
+
+#wrapper
+	{
+		width: 100%;
+		margin: 0 auto;
+	}
+	#nun{
+		width: 100%;
+	}
+	#columna1
+	{
+	width: 100%;
+	}
+	#columna2
+	{
+	width: 100%;
+	}
+	#columna3
+	{
+	width: 100%;
+	}
+	#columna4
+	{
+	width: 100%;
+	}
+	#columna5
+	{
+	width: 100%;
+	}
+	#columna6
+	{
+	width: 100%;
+	}
+	#columna7
+	{
+	width: 100%;
+	}
+	#columna8
+	{
+	width: 100%;
+	}
+	#columna9
+	{
+	width: 100%;
+	}
+	#columna10
+	{
+	width: 100%;
+	}
+	header
+	{
+	width:100%;
+	}
+}
